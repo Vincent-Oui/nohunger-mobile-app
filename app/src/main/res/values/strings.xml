@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">No Hunger</string>
+    <string name="facebook_app_id">179650647506007</string>
+    <string name="fb_login_protocol_scheme">fb179650647506007</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="username">Username</string>
+    <string name="title_donate">Donate</string>
+    <string name="title_profile">Profile</string>
+</resources>
